@@ -1,0 +1,9 @@
+streamlit
+pystac-client
+planetary-computer
+odc-stac
+numpy
+pandas
+scipy
+folium
+streamlit-folium
